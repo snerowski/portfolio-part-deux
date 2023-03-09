@@ -8,6 +8,9 @@ Simply go to my GitHub (github.com/snerowski) find the snerowski.github.io, foll
 
 ## Usage 
 On the site there is a navbar with each category of the portfolio that will direct the user there. The about me section just has my picture and a brief bio. The projects section has both of my projects that are linked to the live webpages of both of them, and when you hover it gives a quick description. The skills and technologies section just has the technologies I have learned thus far, and the links section includes the links to my contact info. Below that has a google maps api that displays my address, then a submission box in case an employer wants to contact me!
+![portfolio1](https://user-images.githubusercontent.com/118015679/224140135-62efce5a-d7eb-41e9-9780-7abb86911855.PNG)
+![portfolio2](https://user-images.githubusercontent.com/118015679/224140159-1d9b7864-9502-49f9-8f16-84155d36232d.PNG)
+![portfolio3](https://user-images.githubusercontent.com/118015679/224140174-d827e42a-392c-4188-acc8-48736860f655.PNG)
 
 ## Credits 
 Seve Nerowski 
